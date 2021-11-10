@@ -1,0 +1,12 @@
+C:\Users\mattd\Desktop\CODEWARS2\Spinning Words\bin\Debug\netcoreapp3.1\Spinning Words.exe
+C:\Users\mattd\Desktop\CODEWARS2\Spinning Words\bin\Debug\netcoreapp3.1\Spinning Words.deps.json
+C:\Users\mattd\Desktop\CODEWARS2\Spinning Words\bin\Debug\netcoreapp3.1\Spinning Words.runtimeconfig.json
+C:\Users\mattd\Desktop\CODEWARS2\Spinning Words\bin\Debug\netcoreapp3.1\Spinning Words.runtimeconfig.dev.json
+C:\Users\mattd\Desktop\CODEWARS2\Spinning Words\bin\Debug\netcoreapp3.1\Spinning Words.dll
+C:\Users\mattd\Desktop\CODEWARS2\Spinning Words\bin\Debug\netcoreapp3.1\Spinning Words.pdb
+C:\Users\mattd\Desktop\CODEWARS2\Spinning Words\obj\Debug\netcoreapp3.1\Spinning Words.csproj.CoreCompileInputs.cache
+C:\Users\mattd\Desktop\CODEWARS2\Spinning Words\obj\Debug\netcoreapp3.1\Spinning Words.AssemblyInfoInputs.cache
+C:\Users\mattd\Desktop\CODEWARS2\Spinning Words\obj\Debug\netcoreapp3.1\Spinning Words.AssemblyInfo.cs
+C:\Users\mattd\Desktop\CODEWARS2\Spinning Words\obj\Debug\netcoreapp3.1\Spinning Words.dll
+C:\Users\mattd\Desktop\CODEWARS2\Spinning Words\obj\Debug\netcoreapp3.1\Spinning Words.pdb
+C:\Users\mattd\Desktop\CODEWARS2\Spinning Words\obj\Debug\netcoreapp3.1\Spinning Words.genruntimeconfig.cache
